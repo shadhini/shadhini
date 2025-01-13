@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌟 Passionate software engineer
 - 🏆 Proven achievements in:
   `Algorithm Development` | `Middleware and Backend Development` | `Automation` | `Blockchain`
-- 📅 5 years in: `Open Banking & Middleware Development` | `Weather Data Management` | `Automation & Disaster Risk Reduction`
+- 📅 6 years in: `Open Banking & Middleware Development` | `Weather Data Management` | `Automation & Disaster Risk Reduction`
 - 🧠 Blends technical expertise with curiosity
 - 🚀 Fast learner and adaptable
 - 🏅 Successful in diverse projects
