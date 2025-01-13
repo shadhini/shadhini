@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=shadhini&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shadhini)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shadhini)](https://git.io/streak-stats) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadhini&theme=default) 
 
 
-<!-- ## GitHub Stats
+## GitHub Stats
 ![Shadhini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadhini&show_icons=true&theme=radical) -->
 
 
